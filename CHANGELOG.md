@@ -1,3 +1,3 @@
-## 0.0.1
+## 0.0.2
 
-Holiday In package lets you to check the Indian Holiday.
+Uploaded a better function in Usage Tab.
